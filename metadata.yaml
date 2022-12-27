@@ -1,0 +1,40 @@
+_repo: The-dream-A-novel_69394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Dream_(novel)'
+gutenberg_issued: '2022-11-20'
+identifiers:
+  gutenberg: '69394'
+  lccn: '24007679'
+language: en
+pgterms:marc904: https://archive.org/details/dreamnovel0000well
+pgterms:marc905: 20221119190310wells
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note:
+- Al Haines
+- 'Al Haines
+
+  Updated: 2022-12-15.'
+publication_note: 'United States: The Macmillan Company,1923,copyright 1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'Dreams -- Fiction'
+- !lcsh 'England -- Social conditions -- 20th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The dream: A novel'
+url: http://www.gutenberg.org/ebooks/69394
